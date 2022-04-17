@@ -1,0 +1,32 @@
+{
+    "theme_color": "#5157ea",
+    "background_color": "#c0d460",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "name": "Robovice",
+    "short_name": "By beginners for beginners",
+    "description": "We help young Robotic Enthusiasts master their skills in robotics.",
+    "icons": [
+        {
+            "src": "/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
